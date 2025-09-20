@@ -1,3 +1,4 @@
 simcenter_add_python_script(SCRIPT MPM.py)
+simcenter_add_python_script(SCRIPT GetEventFromMPM.py)
 simcenter_add_python_script(SCRIPT post_process_sensors.py)
 simcenter_add_python_script(SCRIPT setup_case.py)
